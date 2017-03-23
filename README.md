@@ -1,2 +1,2 @@
-# expense-manager
-A simple android application that can help in managing the daily expenses of the users.
+# Billfold(Android Application)
+An Android application that helps to have a trace of users entire daily expenditure(Expenditure Manager).
